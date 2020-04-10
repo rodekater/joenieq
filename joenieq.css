@@ -1,0 +1,93 @@
+
+body, html {
+	font-family: 'Open Sans', sans-serif;
+    background-color: #a6f2db; 
+ }
+
+
+.nav {
+	height: 4em;
+	background-color: #a6f2db;
+}
+
+.nav-link {
+	color: #402bb3;
+	font-style: bold;
+	font-size: 1.5em;
+}
+
+.nav-link:hover {
+	color: #ba66d4;
+}
+
+.sectie1 {
+      background-color: #ba66d4;
+	}
+
+.col-sm-8 {
+	color: #a6f2db;
+	margin-top: 3em;
+	text-align: center;
+	}
+
+.joenieqlogo {
+	width: 15em;
+	height: 15em;
+	margin-left: 3em;
+}
+
+.sectie2, .sectie3, .sectie4 {
+	margin-top: 3em;
+}
+
+.sectie4 {
+ margin-bottom: 3em;
+}
+   
+
+.card {
+	background-color: white;
+	border-color: #a6f2db;
+}
+.card-text {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+.card-img-top {
+     height: 100px;
+     width: 100px;
+     align-self: center
+ }
+
+
+.no-gutters {
+	background-color: #ba66d4;
+}
+
+
+ .logo {
+ 	height: 120px;
+ 	width: 120px;
+ 	margin-top: 1em;
+ 	margin-left: 5em;
+ }
+
+ .contact {
+ 	height: 150px;
+ 	width: 150px;
+ }
+
+.btn-primary {
+	margin-top: 2em;
+	background-color: #a6f2db;
+	color: #402bb3;
+}
+
+.btn-primary:hover {
+	color: black;
+	background-color: lightblue;
+}
